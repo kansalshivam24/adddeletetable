@@ -1,0 +1,21 @@
+/* * {
+  background-color: lightgray;
+} */
+body {
+  background-color: #2471A3 ;
+}
+.form {
+  display: flex;
+  justify-content: left;
+}
+
+#tabl {
+  width: 600px;
+  text-align:left;
+  border-collapse: collapse;
+  background: #EAF2F8 ;
+}
+
+#add {
+  margin-left: 20px;
+}
